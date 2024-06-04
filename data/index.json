@@ -1,0 +1,39 @@
+{
+   "results": [
+       {
+        "productName": "Coco Chanel",
+        "category": "perfume",
+        "description": "No.5",
+        "amount": 1600.50,
+        "img_url": "https://github.com/Kifaa26/images/blob/main/images/81.jpg?raw=true"
+       },
+       {
+        "productName": "Michael Kors",
+        "category": "perfume",
+        "description": "Fresh",
+        "amount": 1550.50,
+        "img_url": "https://github.com/Kifaa26/images/blob/main/images/81.jpg?raw=true"
+       },
+       {
+        "productName": "Lancome",
+        "category": "perfume",
+        "description": "Idole",
+        "amount": 2000.50,
+        "img_url": "https://github.com/Kifaa26/images/blob/main/images/81.jpg?raw=true"
+       },
+       {
+        "productName": "Yves Saint Laurent",
+        "category": "perfume",
+        "description": "Black Opium",
+        "amount": 3200.20,
+        "img_url": "https://github.com/Kifaa26/images/blob/main/images/81.jpg?raw=true"
+       },
+       {
+        "productName": "Dolce and Gabanna",
+        "category": "perfume",
+        "description": "The only one",
+        "amount": 3100.50,
+        "img_url": "https://github.com/Kifaa26/images/blob/main/images/81.jpg?raw=true"
+       }
+   ]
+}
